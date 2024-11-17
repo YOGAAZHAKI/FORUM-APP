@@ -7,7 +7,8 @@ Welcome to the Forum Application! This project provides a simple forum with user
 # 3.Dashboard
 # 4.Like Feature
 # 5.Profile Update
-# Using the Application
+# Usage:
+
 # Register a New User
 Navigate to the Register page:
 URL: http://127.0.0.1:5000/register
