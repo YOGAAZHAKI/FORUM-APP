@@ -1,5 +1,5 @@
 # FORUM-APP
-Description
+# Description:
 Welcome to the Forum Application! This project provides a simple forum with user registration, login, a dashboard, the ability to like posts, and profile management. It's built using Python and Flask,HTML,CSS and Javascript.
 # Features
 # 1.User Registration
