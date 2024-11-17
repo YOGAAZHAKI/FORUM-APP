@@ -22,12 +22,15 @@ URL: http://127.0.0.1:5000/login
  Username: Enter the username you registered with.
  Password: Enter the password you registered with.
 Submit the form by clicking the "Login" button.
+
+
 # Access the Dashboard
 Navigate to the Dashboard page:
 URL: http://127.0.0.1:5000/dashboard
 Here, you will see your dashboard with the posts available for you to like.
 Like a Post:
 Click the "Like" button next to a post to like it. Remember, each user can like a post only once.
+
 # Update Profile
 Navigate to the Profile page:
 URL: http://127.0.0.1:5000/profile
